@@ -1,0 +1,270 @@
+[
+  {
+    "level_info": {
+        "id": "4ece95db-18aa-4dd2-9fba-9991e1cce1bc",
+        "name": "Amethyst",
+        "position": 1,
+        "publisher_id": "6d9d44c3-4058-4ac0-94c6-41ce57f8f655",
+        "points": 5000,
+        "legacy": false,
+        "level_id": 119550490,
+        "two_player": false,
+        "tags": [
+        "Long",
+        "2.2",
+        "Wave"
+        ],
+        "description": "The hardest rated level in the game. This level is a cluttered crystal cave that features bright purple and pink crystals paired with very detailed rocks and geodes. Inspired by The Golden as an unofficial sequel, this level has undoubtedly some of the hardest wave and ship sections in the game.",
+        "song": null,
+        "edel_enjoyment": null,
+        "is_edel_pending": false,
+        "gddl_tier": null,
+        "nlw_tier": null
+    },
+    "completion_info": null
+  },
+  {
+    "level_info": {
+            "id": "b0b509de-4eed-4415-b419-a02abdc481c1",
+            "name": "Tidal Wave",
+            "position": 2,
+            "publisher_id": "e427c228-5eef-4fa1-b8bd-505a4fd94db3",
+            "points": 4914,
+            "legacy": false,
+            "level_id": 86407629,
+            "two_player": false,
+            "tags": [
+            "2.1",
+            "XXL",
+            "Wave",
+            "NONG"
+            ],
+            "description": "One of the hardest and most well known levels in the entire game, featuring incredibly difficult wave sections spread over its 3 minute runtime. Unlike most other top 1s, this level takes a very different approach to its style, theming it around the ocean and the beach with its blue and yellow colour scheme.",
+            "song": null,
+            "edel_enjoyment": 63.33333333,
+            "is_edel_pending": true,
+            "gddl_tier": null,
+            "nlw_tier": null
+        },
+    "completion_info": null
+  },
+  {
+    "level_info": {
+        "id": "64f09701-c651-41ef-ab1b-96a1c4913bd3",
+        "name": "Nullscapes",
+        "position": 3,
+        "publisher_id": "e59b9ac9-adef-4024-a561-9b9bc5d00e6d",
+        "points": 4832,
+        "legacy": false,
+        "level_id": 109780665,
+        "two_player": false,
+        "tags": [
+        "2.2",
+        "Long",
+        "Robot",
+        "Timings",
+        "Learny"
+        ],
+        "description": "The sequel to Shardscapes and the current hardest level to use one gamemode, that being robot. Expanding on its predecessor, it features more noticeable progression, an orb cycling gimmick and most importantly much more unforgiving gameplay. Includes a CBF blocker which has sparked a significant amount of controversy within the community.",
+        "song": 1132447,
+        "edel_enjoyment": null,
+        "is_edel_pending": false,
+        "gddl_tier": null,
+        "nlw_tier": null
+    },
+    "completion_info": null
+  },
+  {
+    "level_info": {
+        "id": "2d363340-d8ae-4049-a729-a5cf50c0252b",
+        "name": "BOOBAWAMBA",
+        "position": 4,
+        "publisher_id": "9256cd1d-a5df-449e-a0fe-84d44536c25e",
+        "points": 4753,
+        "legacy": false,
+        "level_id": 110816181,
+        "two_player": false,
+        "tags": [
+        "2.2",
+        "XL",
+        "Memory"
+        ],
+        "description": "The current hardest memory extreme, themed around a dark abandoned factory with limited visibility. Features a randomized ending where five details throughout the level determine whether or not to click their corresponding toggle triggers. Built over the course of two years and thousands of hours, Akunakun considers this his magnum opus.",
+        "song": 941913,
+        "edel_enjoyment": 70,
+        "is_edel_pending": true,
+        "gddl_tier": null,
+        "nlw_tier": null
+    },
+    "completion_info": null
+  },
+  {
+    "level_info": {
+        "id": "458bbbdb-a121-4a8f-a7a4-5ea68be04484",
+        "name": "Every End",
+        "position": 5,
+        "publisher_id": "843a11c3-925d-4044-bc08-7c0ca34ff653",
+        "points": 4677,
+        "legacy": false,
+        "level_id": 116174063,
+        "two_player": false,
+        "tags": [
+        "XXXXXXL",
+        "Timings",
+        "Slow-Paced",
+        "Precision",
+        "Cube",
+        "Nerve Control",
+        "2.1"
+        ],
+        "description": "The hardest endurance level in Geometry Dash, featuring over 7 minutes of simple yet brutal 1.0 cube timings. Its difficulty balancing and specific skillset has lead it to being very accessible for a top level. Despite its simple 1.0 aesthetic, its technically impressive background effect involved the usage of third party software developed by Absolute.",
+        "song": null,
+        "edel_enjoyment": 41,
+        "is_edel_pending": true,
+        "gddl_tier": null,
+        "nlw_tier": null
+    },
+    "completion_info": null
+  },
+  {
+    "level_info": {
+        "id": "45036980-77db-4bb5-9720-59ef3001a12e",
+        "name": "andromeda",
+        "position": 6,
+        "publisher_id": "b379f08f-f08a-4562-8a7f-53237d4eb6fd",
+        "points": 4605,
+        "legacy": false,
+        "level_id": 114283297,
+        "two_player": false,
+        "tags": [
+        "2.2",
+        "Long",
+        "NONG",
+        "Fast-Paced",
+        "Timings",
+        "Chokepoints",
+        "Learny",
+        "Wave"
+        ],
+        "description": "Relatively unknown considering it's difficulty. Pink and purple space themed level with incredibly high-CPS gameplay and flashy visuals. Took over a year to be completed.",
+        "song": null,
+        "edel_enjoyment": 85,
+        "is_edel_pending": true,
+        "gddl_tier": 35,
+        "nlw_tier": null
+    },
+    "completion_info": null
+  },
+  {
+    "level_info": {
+        "id": "298bb7f4-38e4-4376-b8b6-8659cf2d2c00",
+        "name": "Anathema",
+        "position": 7,
+        "publisher_id": "556cfea7-a887-4922-a143-9577c4ba3710",
+        "points": 4535,
+        "legacy": false,
+        "level_id": 112313819,
+        "two_player": false,
+        "tags": [
+        "2.2",
+        "XL",
+        "Fast-Paced",
+        "Overall"
+        ],
+        "description": "Legendary finale of the Dedication Series that took over 6 years to be finished and verified. Reminiscent of many different styles throughout 2.1.",
+        "song": null,
+        "edel_enjoyment": 83.88888889,
+        "is_edel_pending": false,
+        "gddl_tier": null,
+        "nlw_tier": null
+    },
+    "completion_info": null
+  },
+  {
+    "level_info": {
+        "id": "dbafbb7d-f925-406c-95e1-7298733def71",
+        "name": "Avernus",
+        "position": 8,
+        "publisher_id": "760b8673-c930-4f37-9fbd-e820fe477d85",
+        "points": 4467,
+        "legacy": false,
+        "level_id": 89496627,
+        "two_player": false,
+        "tags": [
+        "2.1",
+        "Long",
+        "Fast-Paced",
+        "High CPS",
+        "Ship",
+        "Wave"
+        ],
+        "description": "Well-known, heavily disliked, but unexpectedly enjoyable hell themed extreme which has gone through its fair share of controversy. Recognizable for its fixed hitboxes and ridiculous ship and wave sections.",
+        "song": 91656,
+        "edel_enjoyment": 83.63636364,
+        "is_edel_pending": false,
+        "gddl_tier": 35,
+        "nlw_tier": null
+    },
+    "completion_info": null
+  },
+  {
+    "level_info": {
+        "id": "4ae11fe6-fd93-4a4b-8481-3048d3edf736",
+        "name": "Acheron",
+        "position": 9,
+        "publisher_id": "fa630147-2a41-4c56-aa1f-4b7a6649c955",
+        "points": 4402,
+        "legacy": false,
+        "level_id": 73667628,
+        "two_player": false,
+        "tags": [
+        "2.1",
+        "Long",
+        "Fast-Paced",
+        "Timings",
+        "Ship",
+        "Wave",
+        "Chokepoints"
+        ],
+        "description": "Iconic sequel to Tartarus. Intimidating 1.9 styled level that gradually gets less red and more black as it continues. Known for its impossibly tight wave sections & chokepoints.",
+        "song": 770520,
+        "edel_enjoyment": 51.5,
+        "is_edel_pending": false,
+        "gddl_tier": 35,
+        "nlw_tier": null
+    },
+    "completion_info": null
+  },
+  {
+    "level_info": {
+        "id": "d6f7ba38-9787-42a2-acf2-4585e69cbb91",
+        "name": "Silent clubstep",
+        "position": 10,
+        "publisher_id": "6d399cd6-916c-4b49-9dc9-14d1235e548d",
+        "points": 4339,
+        "legacy": false,
+        "level_id": 4125776,
+        "two_player": false,
+        "tags": [
+        "1.8",
+        "Long",
+        "Timings",
+        "Duals"
+        ],
+        "description": "One of the most legendary and recognizable levels in Geometry Dash. Formerly impossible and was initially hack-verified by Sailent in 1.8. Houses the \"8 Jumps of Hell\" and the infamous 6% ship part, among other classic sections.",
+        "song": -14,
+        "edel_enjoyment": 36.66666667,
+        "is_edel_pending": false,
+        "gddl_tier": 35,
+        "nlw_tier": null
+    },
+    "completion_info": {
+        "id": "MOCK DATA",
+        "discord_avatar": null,
+        "username": "zoinkgd",
+        "video_url": "https://youtu.be/dQw4w9WgXcQ?si=fGWeDgVh8WuAc7rH",
+        "created_at": "2022-10-31T09:00:00.594Z"
+
+    }
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "_id": [],
+    "allLevelInfo": {
+        "_id": "4ece95db-18aa-4dd2-9fba-9991e1cce1bc",
+        "name": "Amethyst",
+        "position": 1,
+        "publisher_id": "6d9d44c3-4058-4ac0-94c6-41ce57f8f655",
+        "points": 5000,
+        "legacy": false,
+        "level_id": 119550490,
+        "two_player": false,
+        "tags": [
+        "Long",
+        "2.2",
+        "Wave"
+        ],
+        "description": "The hardest rated level in the game. This level is a cluttered crystal cave that features bright purple and pink crystals paired with very detailed rocks and geodes. Inspired by The Golden as an unofficial sequel, this level has undoubtedly some of the hardest wave and ship sections in the game.",
+        "song": null,
+        "edel_enjoyment": null,
+        "is_edel_pending": false,
+        "gddl_tier": null,
+        "nlw_tier": null
+    },
+    "completedBy": null,
+    "claimInfo": {
+      "_id": "4ece95db-18aa-4dd2-9fba-9991e1cce1bc",
+      "discord_id": "MOCK DATA I DONT CARE",
+      "discord_username": "zoinkgd",
+      "strength": 3
+    }
+  },
+  {
+    "_id": [],
+    "allLevelInfo": {
+        "_id": "4ae11fe6-fd93-4a4b-8481-3048d3edf736",
+        "name": "Acheron",
+        "position": 9,
+        "publisher_id": "fa630147-2a41-4c56-aa1f-4b7a6649c955",
+        "points": 4402,
+        "legacy": false,
+        "level_id": 73667628,
+        "two_player": false,
+        "tags": [
+        "2.1",
+        "Long",
+        "Fast-Paced",
+        "Timings",
+        "Ship",
+        "Wave",
+        "Chokepoints"
+        ],
+        "description": "Iconic sequel to Tartarus. Intimidating 1.9 styled level that gradually gets less red and more black as it continues. Known for its impossibly tight wave sections & chokepoints.",
+        "song": 770520,
+        "edel_enjoyment": 51.5,
+        "is_edel_pending": false,
+        "gddl_tier": 35,
+        "nlw_tier": null
+    },
+    "completedBy": null,
+    "claimInfo": null
+  },
+  {
+    "_id": [],
+    "allLevelInfo": {
+        "_id": "d6f7ba38-9787-42a2-acf2-4585e69cbb91",
+        "name": "Silent clubstep",
+        "position": 10,
+        "publisher_id": "6d399cd6-916c-4b49-9dc9-14d1235e548d",
+        "points": 4339,
+        "legacy": false,
+        "level_id": 4125776,
+        "two_player": false,
+        "tags": [
+        "1.8",
+        "Long",
+        "Timings",
+        "Duals"
+        ],
+        "description": "One of the most legendary and recognizable levels in Geometry Dash. Formerly impossible and was initially hack-verified by Sailent in 1.8. Houses the \"8 Jumps of Hell\" and the infamous 6% ship part, among other classic sections.",
+        "song": -14,
+        "edel_enjoyment": 36.66666667,
+        "is_edel_pending": false,
+        "gddl_tier": 35,
+        "nlw_tier": null
+    },
+    "completedBy": {
+        "_id": "MOCK DATA",
+        "discord_avatar": null,
+        "username": "zoinkgd",
+        "video_url": "https://youtu.be/dQw4w9WgXcQ?si=fGWeDgVh8WuAc7rH",
+        "created_at": "2022-10-31T09:00:00.594Z"
+
+    },
+    "claimInfo": {
+      "_id": "d6f7ba38-9787-42a2-acf2-4585e69cbb91",
+      "discord_id": "MOCK DATA I DONT CARE",
+      "discord_username": "crapideot",
+      "strength": 3
+    }
+  }
+]
