@@ -61,7 +61,7 @@ export function LevelList() {
                     onChange={(e) => setShowUncompletedOnly(e.target.checked)}
                     className="accent-blue-500"
                 />
-                Only show uncompleted levels
+                Only show uncompleted
             </label>
 
         </div>
@@ -112,7 +112,7 @@ export function LevelList() {
                 const discord_user_id = user?.discordId;
 
                 // Send POST form to create/update claim
-                const res = await fetch("https://zelfmonco.xyz:7145/api/sendClaim", {
+                const res = await fetch("https://zelfmonco.xyz:2087/api/sendClaim", {
                 method: "POST",
                 headers: {
                     "Content-Type": "application/json",
