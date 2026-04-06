@@ -1,6 +1,7 @@
 // Auth wrapper
 
 import type { User } from "../types/User";
+import { backendUrl } from "./config";
 
 // Mock stuff
 // const fakeUser = {
@@ -28,15 +29,15 @@ import type { User } from "../types/User";
 
 export async function login() {
   // Redirect to OAuth or open popup
-  window.location.href = "https://zelfmonco.xyz:7145/login";
+  window.location.href = backendUrl("/login");
 }
 
 export async function logout() {
-    window.location.href = "https://zelfmonco.xyz:7145/logout";
+    window.location.href = backendUrl("/logout");
 }
 
 export async function getUser(): Promise<User | null> {
-  const res = await fetch("https://zelfmonco.xyz:7145/auth/me", {credentials: "include"});
+  const res = await fetch(backendUrl("/auth/me"), {credentials: "include"});
   if (!res.ok) return null;
   const data: User = await res.json();
   return data;

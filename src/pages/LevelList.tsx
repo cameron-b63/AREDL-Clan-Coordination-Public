@@ -1,8 +1,8 @@
 import { useEffect, useState } from 'react';
 import { getLevels } from '../api/getLevels';
+import { sendClaim } from '../api/sendClaim';
 import { getStrengthVerb, getStrengthColor } from '../helpers/claim_translation';
 import type { FullLevelInfo } from '../types/Level';
-import { getUser } from '../api/auth';
 
 export function LevelList() {
     // Create a space for the levels to go
@@ -106,27 +106,14 @@ export function LevelList() {
             const levelId = full.allLevelInfo._id;
 
             try {
-                // Get needed info to format POST request to endpoint
-                const user = await getUser();
-                const username = user?.username;
-                const discord_user_id = user?.discordId;
+                const result = await sendClaim(levelId, strength);
 
-                // Send POST form to create/update claim
-                const res = await fetch("https://zelfmonco.xyz:2087/api/sendClaim", {
-                method: "POST",
-                headers: {
-                    "Content-Type": "application/json",
-                },
-                body: JSON.stringify({  "_id": levelId, "discord_id": discord_user_id, "discord_username": username, "strength": strength }),
-                credentials: "include",
-                });
-
-                if (!res.ok) {
-                    console.log(`Server responded with ${res.status}`);
-                    if(res.status === 401) {
+                if (!result.ok) {
+                    console.log(`Server responded with ${result.status}`);
+                    if(result.status === 401) {
                         alert("You need to log in first.");
                     }
-                    if(res.status === 403) {
+                    if(result.status === 403) {
                         alert("Request rejected. Are you trying to steal someone else's claim?");  
                     }
                     

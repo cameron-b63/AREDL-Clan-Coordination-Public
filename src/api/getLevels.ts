@@ -1,6 +1,5 @@
 import type { FullLevelInfo } from "../types/Level";
-
- const backendBase = 'https://zelfmonco.xyz:2087'
+import { backendUrl } from "./config";
 
 
 // Get levels from backend (mocked for time being, turn into FullLevelInfo if need be)
@@ -17,7 +16,7 @@ export async function getLevels(): Promise<FullLevelInfo[]> {
 
     // This is where real data is retrieved. Uncomment it when real data is available (from backend).
     
-    const res = await fetch(backendBase+'/api/levels');
+    const res = await fetch(backendUrl('/api/levels'));
     if (!res.ok)
     {
         throw new Error("GUH!");

@@ -2,6 +2,18 @@
 
 `npm run deploy`
 
+## Backend configuration
+
+This frontend reads the backend origin from `VITE_BACKEND_ORIGIN`.
+
+- Local development: `.env.development` (currently `/`)
+- Production build: `.env.production` (currently `https://zelfmonco.xyz`)
+
+If your local backend runs on a different port, update `.env.development`.
+
+The Vite dev server is configured to run over HTTPS for local testing.
+In development, `/api`, `/auth`, `/login`, and `/logout` are proxied to `https://localhost:443` with certificate verification disabled in the dev proxy.
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
